@@ -1,0 +1,30 @@
+body{
+    background-color: #F31559;
+}
+.container-nav{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.btn1{
+    background-color: #F31559;
+    color: white;
+    border: none;
+    padding: 6px;
+    border-radius: 5px;
+    text-align: center;
+}
+.btn2{
+    background-color: #F31559;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: small;
+    padding: 10px;
+}
+a{
+    font-weight: bold;
+}
+a:hover{
+    color: #F31559 !important;
+}
